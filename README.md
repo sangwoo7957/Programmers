@@ -1,2 +1,2 @@
 # Programmers solved
-Java, Python
+Java
